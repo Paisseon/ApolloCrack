@@ -1,0 +1,12 @@
+Package: emt.paisseon.apollocrack
+Name: Apollo Crack
+Version: 1.4
+Architecture: iphoneos-arm
+Description: Apollo Ultra for free
+Maintainer: Paisseon
+Author: Paisseon
+Section: Cracks
+Depends: mobilesubstrate, firmware (>= 12.2)
+SileoDepiction: https://paisseon.github.io/depictions/ApolloCrack.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/ApolloCrack.json&name=ApolloCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/ApolloCrack.png
